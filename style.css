@@ -7,5 +7,7 @@ body{
     width: 15%;
 
 }
-
+.degrade{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.712), rgb(216, 0, 0));
+}
 
