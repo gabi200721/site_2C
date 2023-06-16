@@ -8,6 +8,6 @@ body{
 
 }
 .degrade{
-    background-image: linear-gradient(to right, white,red);
+    background-image: linear-gradient(to right, rgb(9, 114, 0),rgb(199, 0, 0));
 }
 
