@@ -10,7 +10,3 @@ body{
 .degrade{
     background-image: linear-gradient(to right, #62ff5400,rgb(168, 0, 0));
 }
-.imagem {
-    display: flex;
-    justify-content: space-around;
-}
