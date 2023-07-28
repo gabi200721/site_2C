@@ -1,7 +1,7 @@
 body{
     background-color: rgba(211, 0, 0,);
-    margin: 30px;
-    font-size: 20px;
+    margin: 20px;
+    font-size: 25px;
 }
 .pimenta2{
     width: 15%;
@@ -10,3 +10,4 @@ body{
 .degrade{
     background-image: linear-gradient(to right, #62ff5400,rgb(168, 0, 0));
 }
+
