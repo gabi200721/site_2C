@@ -50,13 +50,22 @@
     width: 18%;
    }
 .pimentinha{
-    width: 20%;
+    width: 25%;
 }
-
-
-
+.textolado{
+    display: block;
+ 
     
-   
+}
+.topico1{
+    width: 10%;
+}
+ div{
+    vertical-align: top;
+ }   
+ img{
+    vertical-align: top;
+ }  
 
 
     
