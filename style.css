@@ -58,7 +58,14 @@
 .pimentamadura{
     width: 60%;
 }
-
+.titulo1{
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px  0;
+}
 
 
 
